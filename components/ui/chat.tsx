@@ -56,7 +56,6 @@ export function Chat({
   const lastMessage = messages.at(-1);
   const isEmpty = messages.length === 0;
   const isTyping = lastMessage?.role === "user";
-  console.log("messs", messages);
 
   const messageOptions = useCallback(
     (message: Message) => ({
