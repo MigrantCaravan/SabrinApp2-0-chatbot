@@ -34,7 +34,7 @@ type MessageInputProps =
   | MessageInputWithAttachmentsProps;
 
 export function MessageInput({
-  placeholder = "Preguntale a Sabri...",
+  placeholder = "Preguntale a Mai...",
   className,
   onKeyDown: onKeyDownProp,
   submitOnEnter = true,

@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SabrinApp 2.0",
-  description: "Tu amiga de toda la vida",
+  title: "Mai Chatbot",
+  description: "El futuro Product Owner de Croper",
 };
 
 export default function RootLayout({

@@ -31,9 +31,10 @@ export function ChatDemo(props: ChatDemoProps) {
         stop={stop}
         append={append}
         suggestions={[
-          "Dame la receta de unas salchipapas de la 80",
-          "Genera 3 consejos para Pablo que quiere ser mejor papá",
-          "¿Quién quedó Campeón de la Copa Libertadores en el año 1989?",
+          "Dame la respuesta sobre la Parte 1: Priorización del Backlog",
+          "Dame una respuesta sobre la Parte 2: Historia de Usuario y Criterios de Aceptación",
+          "Dame una respuesta sobre la Parte 3: Resolución de un Problema del Producto",
+          "Dame una respuesta sobre la Parte 4: Métricas Clave",
         ]}
       />
     </div>
